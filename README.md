@@ -1,1 +1,4 @@
-# clover-gas
+## Installation
+```bash
+npm clover-gas
+```
