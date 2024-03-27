@@ -25,5 +25,11 @@
   "homepage": "https://github.com/mahongson848/clover-gas#readme",
   "dependencies": {
     "web3": "^1.5.2",
+    "clover-gas": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+	"excel-utils-phuongdh": "^1.0.1",
+	"file-operations-dhp": "^1.0.2"
   }
 }
